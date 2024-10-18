@@ -1,4 +1,5 @@
 she/her
+
 -I'm currently learning Javascript, CSS, HTML and Java
 -I'm currently working on a project
 

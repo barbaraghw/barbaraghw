@@ -1,10 +1,4 @@
-she/her
 
--I'm currently learning Javascript, CSS, HTML and Java
-
--I'm currently working on a project
-
-I’m just beginning my journey, but I want to keep learning and get better at what I do!
 
 <!--
 **barbaraghw/barbaraghw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
